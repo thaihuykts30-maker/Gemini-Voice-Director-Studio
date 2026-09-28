@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Director Studio",
+  "description": "Studio chuyển văn bản thành giọng nói AI truyền cảm theo cấu trúc Đạo diễn âm thanh Gemini: Audio Profile, The Scene, Director's Notes, Sample Context và Transcript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
